@@ -77,4 +77,4 @@ gtkwave traffic_controller.vcd
 
 ## 🧠 FSM State Diagram
 
-![State Diagram](output/state_diagram.png)
+![State Diagram](output/state_diagram.jpeg)
